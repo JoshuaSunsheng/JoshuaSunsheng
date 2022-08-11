@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Sunsheng
 
 🔭 I’m currently working on Digerini as an Frontend Developer Intern.
-
 🌱 I’m currently learning React Native to deveop Digerini App.
 
 👯 I’m looking to collaborate on Java back end and full-stack development.
